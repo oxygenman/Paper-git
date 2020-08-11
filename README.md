@@ -73,3 +73,10 @@ README
 #### 3.few shot learning
 
 1. 2020.3 Generalizing from a Few Examples: A Survey on Few-Shot Learning
+
+#### 4.人脸识别相关论文
+
+1.Dense 3D Face Decoding over 2500FPS: Joint Texture & Shape Convolutional
+
+Mesh Decoders
+
