@@ -80,3 +80,6 @@ README
 
 Mesh Decoders
 
+2.RetinaFace: Single-stage Dense Face Localisation in the Wild
+
+3.RefineFace: Refinement Neural Network for High Performance Face Detection
